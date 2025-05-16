@@ -1,0 +1,10 @@
+name: microts
+display_name: MicroTS
+contributions:
+  commands:
+    - id: microts.time_series_processor
+      python_name: microts.processor:TimeSeriesProcessor
+      title: MicroTS Time Series Processor
+  widgets:
+    - command: microts.time_series_processor
+      display_name: MicroTS

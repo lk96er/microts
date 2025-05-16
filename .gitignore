@@ -8,3 +8,20 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pycharm
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+Thumbs.db
